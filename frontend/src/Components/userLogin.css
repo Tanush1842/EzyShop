@@ -1,0 +1,48 @@
+.loginForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 5%;
+}
+
+.loginForm Button {
+  margin-top: 8%;
+}
+
+.newAcc-Button {
+  margin-left: 120px;
+  display: block;
+}
+
+.login-button {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.loginForm input {
+  border-radius: 7px;
+  width: 400px;
+  margin-top: 10%;
+}
+
+.heading {
+  text-align: center;
+  margin-top: 60px;
+  color: #892cdc;
+}
+
+.failed {
+  margin-top: 4%;
+  color: red;
+}
+
+@media screen and (max-width: 960px) {
+  .loginForm input {
+    width: 300px;
+  }
+
+  .newAcc-Button {
+    margin-left: 70px;
+  }
+}
