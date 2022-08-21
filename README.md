@@ -1,6 +1,4 @@
 # E-Commerce Platform build using MERN stack.
-The website is deployed [here](https://ecom-webapp.herokuapp.com/)
-
 ## Features
 
 - Product Search Feature.
