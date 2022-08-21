@@ -7,12 +7,6 @@
 - Automatic bill geneartion in pdf format after an order in placed.
 - Admin can add , update , delete items.
 
-## Sample user and admin login
-
-```
-Username - '9'
-Password - 'a'
-```
 
 ## Run
 
@@ -23,3 +17,11 @@ npm intall
 cd ..
 npm run dev
 ```
+
+## Sample user and admin login
+
+```
+Username - '9'
+Password - 'a'
+```
+
